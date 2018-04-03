@@ -182,11 +182,8 @@ successiva viene proposto un riepilogo di DigComp 2.0 in cui sono
 evidenziati i cambiamenti in DigComp 2.1.
 
 .. image:: competenze1.jpg
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
+   :alt: competenze
+   :align: center
 
 Sezione 2 - Gli otto livelli di padronanza e gli esempi di utilizzo
 
