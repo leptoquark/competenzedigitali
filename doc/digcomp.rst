@@ -177,12 +177,12 @@ padronanza e descritti gli esempi di utilizzo. La sezione 3 presenta il
 nuovo framework nel dettaglio. Grande impegno è stato profuso per il
 lay-out e la rappresentazione grafica di DigComp 2.1 al fine di
 aumentare la leggibilità per tutti gli stakeholder interessati a
-implementare il quadro di riferimento. Come promemoria, nella pagina
+implementare il quadro di riferimento. Come promemoria, nella tabella
 successiva viene proposto un riepilogo di DigComp 2.0 in cui sono
 evidenziati i cambiamenti in DigComp 2.1.
 
 .. image:: competenze1.jpg
-   :alt: competenze
+   :alt: riepilogo di DigComp 2.0 in cui sono evidenziati i cambiamenti in DigComp 2.1 
    :align: center
 
 Sezione 2 - Gli otto livelli di padronanza e gli esempi di utilizzo
@@ -224,93 +224,9 @@ informazioni nella Tabella 1 sono state rappresentate nell’infografica.
     **Tabella 1: Principali parole chiave che contraddistinguono i
     livelli di padronanza**
 
-+-------------+-------------+-------------+-------------+-------------+
-|     Livelli |     Livelli |     Comples |     Autonom |     Dominio |
-|     in      |     in      | sità        | ia          |     cogniti |
-|     DigComp |     DigComp |     dei     |             | vo          |
-|     1.0     |     2.1     |     compiti |             |             |
-+=============+=============+=============+=============+=============+
-|     Base    |     1       |     Compiti |     Con     |     Ricordo |
-|             |             |     semplic |     guida   |             |
-|             |             | i           |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |     2       |     Compiti |     Autonom |     Ricordo |
-|             |             |     semplic | ia          |             |
-|             |             | i           |     e guida |             |
-|             |             |             |     in caso |             |
-|             |             |             |     di      |             |
-|             |             |             |     necessi |             |
-|             |             |             | tà          |             |
-+-------------+-------------+-------------+-------------+-------------+
-|     Interme |     3       |     Compiti |     In      |     Compren |
-| dio         |             |     ben     |     autonom | sione       |
-|             |             |     definit | ia          |             |
-|             |             | i           |             |             |
-|             |             |     e       |             |             |
-|             |             |     sistema |             |             |
-|             |             | tici,       |             |             |
-|             |             |     problem |             |             |
-|             |             | i           |             |             |
-|             |             |     diretti |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |     4       |     Compiti |     Indipen |     Compren |
-|             |             |     e       | dente       | sione       |
-|             |             |     problem |     e in    |             |
-|             |             | i           |     base    |             |
-|             |             |     ben     |     alle    |             |
-|             |             |     definit |     mie     |             |
-|             |             | i           |     necessi |             |
-|             |             |     e non   | tà          |             |
-|             |             |     sistema |             |             |
-|             |             | tici        |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|     Avanzat |     5       |     Compiti |     Guida   |     Applica |
-| o           |             |     e       |     per gli | zione       |
-|             |             |     problem |     altri   |             |
-|             |             | i           |             |             |
-|             |             |     diversi |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |     6       |     Compiti |     Capacit |     Valutaz |
-|             |             |     più     | à           | ione        |
-|             |             |     opportu |     di      |             |
-|             |             | ni          |     adattar |             |
-|             |             |             | si          |             |
-|             |             |             |     agli    |             |
-|             |             |             |     altri   |             |
-|             |             |             |     in un   |             |
-|             |             |             |     contest |             |
-|             |             |             | o           |             |
-|             |             |             |     comples |             |
-|             |             |             | so          |             |
-+-------------+-------------+-------------+-------------+-------------+
-|     Altamen |     7       |     Risoluz |     Integra |     Creazio |
-| te          |             | ione        | zione       | ne          |
-|     special |             |     di      |     per     |             |
-| izzato      |             |     problem |     contrib |             |
-|             |             | i           | uire        |             |
-|             |             |     comples |     alla    |             |
-|             |             | si          |     prassi  |             |
-|             |             |     con     |     profess |             |
-|             |             |     soluzio | ionale      |             |
-|             |             | ni          |     e per   |             |
-|             |             |     limitat |     guidare |             |
-|             |             | e           |     gli     |             |
-|             |             |             |     altri   |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |     8       |     Risoluz |     Propost |     Creazio |
-|             |             | ione        | a           | ne          |
-|             |             |     di      |     di      |             |
-|             |             |     problem |     nuove   |             |
-|             |             | i           |     idee e  |             |
-|             |             |     comples |     process |             |
-|             |             | si          | i           |             |
-|             |             |     con     |     nell’am |             |
-|             |             |     molti   | bito        |             |
-|             |             |     fattori |     specifi |             |
-|             |             |     di      | co          |             |
-|             |             |     interaz |             |             |
-|             |             | ione        |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+.. image:: competenze2.jpg
+   :alt: Principali parole chiave che contraddistinguono i livelli di padronanza
+   :align: center
 
 [INFOGRAFICA]
 
