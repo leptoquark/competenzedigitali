@@ -12,7 +12,6 @@ settings_doc_version = "draft"
 settings_doc_release = "draft"
 settings_basename = 'competenzedigitali'
 settings_file_name = 'competenzedigitali'
-discourse_url = 'https://ia.italia.it/community/'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -24,7 +23,6 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
-    'sphinxcontrib.discourse'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
