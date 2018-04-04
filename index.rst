@@ -9,6 +9,9 @@ pubblicato con DigComp 2.0, questo documento illustra otto livelli di
 padronanza ed esempi di utilizzo applicati al settore dell’istruzione e
 del lavoro.
 
+Sommario
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 .. toctree::
    :maxdepth: 2
 
