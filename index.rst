@@ -17,9 +17,9 @@ Sommario
 .. toctree::
    :maxdepth: 2
 
-   doc/competenze_di_base/informazioni_sulla_traduzione
-   doc/competenze_di_base/riconoscimenti
    doc/competenze_di_base/prefazione
    doc/competenze_di_base/sezione1
    doc/competenze_di_base/sezione2
    doc/competenze_di_base/sezione3
+   doc/competenze_di_base/informazioni_sulla_traduzione
+   doc/competenze_di_base/riconoscimenti
