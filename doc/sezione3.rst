@@ -11,11 +11,12 @@ dimensione 4 (conoscenze, abilità e attitudini).
 
 SOMMARIO DELLE COMPETENZE (SOTTOPAGINE)
 
-Area delle competenze 1: Informazione e alfabetizzazione su
-
-informazione e dati
+===============================================================================
+Area delle competenze 1: Informazione e alfabetizzazione su informazione e dati
+===============================================================================
 
 1.1 Navigare, ricercare e filtrare dati, informazioni e contenuti digitali
+==========================================================================
 
 Articolare i fabbisogni informativi, ricercare i dati, le informazioni e
 i contenuti in ambienti digitali, accedervi e navigare al loro interno.
@@ -488,7 +489,9 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
+=======================================================
 Area delle competenze 2: Collaborazione e comunicazione
+=======================================================
 
 2.1 Interagire con gli altri attraverso le tecnologie
 =====================================================
@@ -1476,7 +1479,9 @@ Sono in grado di proporre una nuova procedura alla mia scuola che eviti
 la pubblicazione di contenuti digitali (testi, immagini, video), che
 possono danneggiare la reputazione degli studenti.
 
+========================================================
 Area delle competenze 3: Creazione di contenuti digitali
+========================================================
 
 3.1 Sviluppare contenuti digitali
 =================================
@@ -2046,7 +2051,9 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
+==================================
 Area delle competenze 4: Sicurezza
+==================================
 
 4.1 Proteggere i dispositivi
 ============================
@@ -2737,7 +2744,9 @@ condividerlo sulla piattaforma di apprendimento digitale della mia
 scuola affinché possa essere utilizzato dai miei compagni e dalle loro
 famiglie.
 
+===========================================
 Area delle competenze 5: Risolvere problemi
+===========================================
 
 5.1 Risolvere problemi tecnici
 ==============================
@@ -3403,14 +3412,3 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
    l’evoluzione digitale.
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
-
-.. [1]
-   DigComp 2.1 non comprende l’aggiornamento della dimensione 4,
-   preferiamo concentrarci sugli esempi di utilizzo applicati al campo
-   dell’occupazione e dell’apprendimento data la loro rilevanza per le
-   politiche.
-
-.. [2]
-   Il quadro di riferimento, così come gli esempi, hanno puramente
-   natura descrittiva pertanto non vengono forniti esempi per tutti i
-   livelli di padronanza.
