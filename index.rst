@@ -15,7 +15,7 @@ Sommario
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    doc/competenze_di_base/prefazione
    doc/competenze_di_base/sezione1
