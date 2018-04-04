@@ -3,7 +3,7 @@ Riconoscimenti
 
 Si ringrazia per i suggerimenti pervenuti durante la consultazione
 pubblica e che hanno supportato il miglioramento della traduzione
-ufficiale: Laura Biancato, Giovanni Gentili, Mario Mattioli, Pasquale
+ufficiale: Laura Biancato, Giovanni Gentili, Stefano Kluzer, Mario Mattioli, Pasquale
 Popolizio, Matteo Steduto.
 
 Per la versione in formato PDF, tutte le immagini sono di proprietà
