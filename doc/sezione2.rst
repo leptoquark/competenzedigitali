@@ -1,4 +1,6 @@
+===================================================================
 Sezione 2 - Gli otto livelli di padronanza e gli esempi di utilizzo
+===================================================================
 
 Il framework DigComp 1.0 aveva tre livelli di padronanza nella
 Dimensione 3 (base, intermedio e avanzato). In DigComp 2.1 i livelli
@@ -37,93 +39,34 @@ informazioni nella Tabella 1 sono state rappresentate nell’infografica.
     **Tabella 1: Principali parole chiave che contraddistinguono i
     livelli di padronanza**
 
-+-------------+-------------+-------------+-------------+-------------+
-|     Livelli |     Livelli |     Comples |     Autonom |     Dominio |
-|     in      |     in      | sità        | ia          |     cogniti |
-|     DigComp |     DigComp |     dei     |             | vo          |
-|     1.0     |     2.1     |     compiti |             |             |
-+=============+=============+=============+=============+=============+
-|     Base    |     1       |     Compiti |     Con     |     Ricordo |
-|             |             |     semplic |     guida   |             |
-|             |             | i           |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |     2       |     Compiti |     Autonom |     Ricordo |
-|             |             |     semplic | ia          |             |
-|             |             | i           |     e guida |             |
-|             |             |             |     in caso |             |
-|             |             |             |     di      |             |
-|             |             |             |     necessi |             |
-|             |             |             | tà          |             |
-+-------------+-------------+-------------+-------------+-------------+
-|     Interme |     3       |     Compiti |     In      |     Compren |
-| dio         |             |     ben     |     autonom | sione       |
-|             |             |     definit | ia          |             |
-|             |             | i           |             |             |
-|             |             |     e       |             |             |
-|             |             |     sistema |             |             |
-|             |             | tici,       |             |             |
-|             |             |     problem |             |             |
-|             |             | i           |             |             |
-|             |             |     diretti |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |     4       |     Compiti |     Indipen |     Compren |
-|             |             |     e       | dente       | sione       |
-|             |             |     problem |     e in    |             |
-|             |             | i           |     base    |             |
-|             |             |     ben     |     alle    |             |
-|             |             |     definit |     mie     |             |
-|             |             | i           |     necessi |             |
-|             |             |     e non   | tà          |             |
-|             |             |     sistema |             |             |
-|             |             | tici        |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|     Avanzat |     5       |     Compiti |     Guida   |     Applica |
-| o           |             |     e       |     per gli | zione       |
-|             |             |     problem |     altri   |             |
-|             |             | i           |             |             |
-|             |             |     diversi |             |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |     6       |     Compiti |     Capacit |     Valutaz |
-|             |             |     più     | à           | ione        |
-|             |             |     opportu |     di      |             |
-|             |             | ni          |     adattar |             |
-|             |             |             | si          |             |
-|             |             |             |     agli    |             |
-|             |             |             |     altri   |             |
-|             |             |             |     in un   |             |
-|             |             |             |     contest |             |
-|             |             |             | o           |             |
-|             |             |             |     comples |             |
-|             |             |             | so          |             |
-+-------------+-------------+-------------+-------------+-------------+
-|     Altamen |     7       |     Risoluz |     Integra |     Creazio |
-| te          |             | ione        | zione       | ne          |
-|     special |             |     di      |     per     |             |
-| izzato      |             |     problem |     contrib |             |
-|             |             | i           | uire        |             |
-|             |             |     comples |     alla    |             |
-|             |             | si          |     prassi  |             |
-|             |             |     con     |     profess |             |
-|             |             |     soluzio | ionale      |             |
-|             |             | ni          |     e per   |             |
-|             |             |     limitat |     guidare |             |
-|             |             | e           |     gli     |             |
-|             |             |             |     altri   |             |
-+-------------+-------------+-------------+-------------+-------------+
-|             |     8       |     Risoluz |     Propost |     Creazio |
-|             |             | ione        | a           | ne          |
-|             |             |     di      |     di      |             |
-|             |             |     problem |     nuove   |             |
-|             |             | i           |     idee e  |             |
-|             |             |     comples |     process |             |
-|             |             | si          | i           |             |
-|             |             |     con     |     nell’am |             |
-|             |             |     molti   | bito        |             |
-|             |             |     fattori |     specifi |             |
-|             |             |     di      | co          |             |
-|             |             |     interaz |             |             |
-|             |             | ione        |             |             |
-+-------------+-------------+-------------+-------------+-------------+
+
++-------------------------+------------------------+-------------------------------------+-----------------------------------+-------------------+
+| Livelli in DigComp 1.0  | Livelli in DigComp 2.1 | Complessità dei compiti             | Autonomia                         | Dominio cognitivo |
++-------------------------+------------------------+-------------------------------------+-----------------------------------+-------------------+
+| Base                    | 1                      | Compiti semplici                    | Con guida                         | Ricordo           |
++                         +------------------------+-------------------------------------+-----------------------------------+-------------------+
+|                         | 2                      | Compiti semplici                    | Autonomia e guida in caso di      | Ricordo           |
+|                         |                        |                                     | necessità                         |                   |
++-------------------------+------------------------+-------------------------------------+-----------------------------------+-------------------+
+| Intermedio              | 3                      | Compiti ben definiti e sistematici, | In autonomia                      | Comprensione      |
+|                         |                        | problemi diretti                    |                                   |                   |
++                         +------------------------+-------------------------------------+-----------------------------------+-------------------+
+|                         | 4                      | Compiti e problemi ben definiti e   | Indipendente e in                 | Comprensione      |
+|                         |                        | non sistemaitici                    | base alle mie necessità           |                   |
++-------------------------+------------------------+-------------------------------------+-----------------------------------+-------------------+
+| Avanzato                | 5                      | Compiti e problemi diversi          | Guida per gli altri               | Applicazione      |
++                         +------------------------+-------------------------------------+-----------------------------------+-------------------+
+|                         | 6                      | Compiti più opportuni               | Capacità di adattarsi agli altri  | Valutazione       |
+|                         |                        |                                     | in un contesto complesso          |                   |
++-------------------------+------------------------+-------------------------------------+-----------------------------------+-------------------+
+| Altamente specializzato | 7                      | Risoluzione di problemi complessi   | Integrazione per contribuire      | Creazione         |
+|                         |                        | con soluzioni limitate              | alla prassi professionale e       |                   |
+|                         |                        |                                     | per guidare gli altri             |                   |
++                         +------------------------+-------------------------------------+-----------------------------------+-------------------+
+|                         | 8                      | Risoluzione di problemi complessi   | Proposta di nuove idee e processi | Creazione         |
+|                         |                        | con molti fattori di interazione    | nell'ambito specifico             |                   |
++-------------------------+------------------------+-------------------------------------+-----------------------------------+-------------------+
+
 
 [INFOGRAFICA]
 
