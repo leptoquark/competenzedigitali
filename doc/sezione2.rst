@@ -238,8 +238,7 @@ di parole generiche per la ricerca di lavoro in un blog specializzato.
 *02 – Scenario di apprendimento: Preparare una breve relazione su un argomento specifico*
 *****************************************************************************************
 
-In classe con il mio insegnante che posso consultare ogni volta che ho
-bisogno di:
+In classe con il mio insegnante che posso consultare ogni volta che ho bisogno di:
 
 Sono in grado di identificare siti web, blog e database digitali da un
 elenco nel mio libro di testo digitale per cercare riferimenti
@@ -255,6 +254,7 @@ individuare quelle che potrebbero essere utili per trovare riferimenti
 bibliografici sull’argomento della relazione.
 
 3- Intermedio
+'''''''''''''
 
 Da solo e risolvendo problemi diretti, sono in grado di:
 
@@ -269,8 +269,10 @@ Da solo e risolvendo problemi diretti, sono in grado di:
    sistematiche**.
 
 Esempi di utilizzo
+******************
 
 *01 – Scenario di occupazione: Processo di ricerca di un lavoro*
+****************************************************************
 
 Da solo:
 
@@ -287,8 +289,8 @@ parole chiave per trovare portali e app di lavoro nel mio smartphone.
 Posso risolvere problemi come accedere al portale o all'app di lavoro
 sbagliati o navigare lontano dai portali che uso abitualmente.
 
-*02 – Scenario di apprendimento: Preparare una breve relazione su un
-argomento specifico*
+*02 – Scenario di apprendimento: Preparare una breve relazione su un argomento specifico*
+*****************************************************************************************
 
 Da solo:
 
@@ -309,6 +311,7 @@ visitato il sito Web sbagliato o che sto navigando fuori dai siti Web di
 uso comune.
 
 4 - Intermedio
+''''''''''''''
 
 In modo indipendente, secondo i miei fabbisogni e risolvendo problemi
 ben definiti e non sistematici, sono in grado di:
@@ -324,8 +327,10 @@ ben definiti e non sistematici, sono in grado di:
 -  **organizzare** strategie di ricerca personali.
 
 Esempi di utilizzo
+******************
 
 *01 – Scenario di occupazione: Processo di ricerca di un lavoro*
+****************************************************************
 
 Posso dare esempi al consulente del lavoro di idonei portali o app di
 lavoro che utilizzo per le mie esigenze di ricerca di lavoro.
@@ -347,8 +352,8 @@ nuove app visualizzate nell'app store del mio smartphone come risultato
 della mia ricerca o aggiungere nuove parole chiave alla mia strategia di
 ricerca personale.
 
-*02 – Scenario di apprendimento: Preparare una breve relazione su un
-argomento specifico*
+*02 – Scenario di apprendimento: Preparare una breve relazione su un argomento specifico*
+*****************************************************************************************
 
 Posso dare esempi ai miei compagni di classe di siti Web, blog e
 database digitali che consulto per trovare la bibliografia relativa
@@ -372,6 +377,7 @@ mie strategie di ricerca personali se non trovo le risorse appropriate
 relative all'argomento della mia relazione.
 
 5 – Avanzato
+''''''''''''
 
 Oltre a fornire supporto agli altri, sono in grado di:
 
@@ -386,8 +392,10 @@ Oltre a fornire supporto agli altri, sono in grado di:
 -  **proporre** strategie di ricerca personali.
 
 Esempi di utilizzo
+******************
 
 *01 – Scenario di occupazione: Processo di ricerca di un lavoro*
+****************************************************************
 
 Quando cerco lavoro, posso trovare portali di lavoro e app relative al
 mio profilo di lavoro in qualsiasi ambiente digitale, sia di uso
@@ -405,8 +413,8 @@ contenenti le principali parole chiave, annunci di lavoro, blog, wiki,
 app e portali che uso quando cerco lavoro e lo condivido con altre
 persone in cerca di lavoro.
 
-*02 – Scenario di apprendimento: Preparare una breve relazione su un
-argomento specifico*
+*02 – Scenario di apprendimento: Preparare una breve relazione su un argomento specifico*
+*****************************************************************************************
 
 Per preparare la relazione, posso accedere a siti Web, blog e database
 digitali per trovare la bibliografia relativa all'argomento, utilizzando
@@ -425,6 +433,7 @@ database digitali con materiale informativo correlato alla relazione
 utilizzando parole chiave e tag.
 
 6 – Avanzato
+''''''''''''
 
 A un livello avanzato, secondo i miei fabbisogni e quelli degli altri,
 all’interno di contesti complessi, sono in grado di:
@@ -441,8 +450,10 @@ all’interno di contesti complessi, sono in grado di:
 -  **variare** le strategie di ricerca personali.
 
 Esempi di utilizzo
+******************
 
 *01 – Scenario di occupazione: Processo di ricerca di un lavoro*
+****************************************************************
 
 Posso valutare i portali di lavoro più appropriati per le offerte di
 lavoro in base alle mie esigenze di ricerca di lavoro e per quelle di un
@@ -465,8 +476,8 @@ portali più adatti ai diversi profili di lavoro e fornire esempi su come
 superare situazioni complesse in cerca di lavoro (ad esempio non trovare
 annunci di lavoro appropriati, annunci di lavoro falsi o vecchi).
 
-*02 – Scenario di apprendimento: Preparare una breve relazione su un
-argomento specifico*
+*02 – Scenario di apprendimento: Preparare una breve relazione su un argomento specifico*
+*****************************************************************************************
 
 Sono in grado di valutare i siti web, i blog e i database digitali più
 appropriati per ottenere la bibliografia in base alle mie esigenze e a
@@ -490,6 +501,7 @@ verificano durante la navigazione tra queste risorse digitali (ad
 esempio non trovando abbastanza bibliografia, dati di pessima qualità).
 
 7 – Altamente specializzato
+'''''''''''''''''''''''''''
 
 A un livello altamente specializzato, sono in grado di:
 
@@ -503,16 +515,18 @@ A un livello altamente specializzato, sono in grado di:
    digitali.
 
 Esempi di utilizzo
+******************
 
 *01 – Scenario di occupazione: Processo di ricerca di un lavoro*
+****************************************************************
 
 Posso creare una piattaforma collaborativa digitale (blog, wiki, ecc.)
 che può essere utilizzata da altre persone in cerca di lavoro per
 cercare e filtrare portali e offerte di lavoro in base alle loro
 esigenze di ricerca di lavoro.
 
-*02 – Scenario di apprendimento: Preparare una breve relazione su un
-argomento specifico*
+*02 – Scenario di apprendimento: Preparare una breve relazione su un argomento specifico*
+*****************************************************************************************
 
 Posso creare una piattaforma collaborativa digitale (blog, wiki, ecc.)
 nell'ambiente di apprendimento digitale della scuola, condividere e
@@ -521,6 +535,7 @@ relazione, guidando i miei compagni di classe a scrivere la loro
 relazione.
 
 8 – Altamente specializzato
+'''''''''''''''''''''''''''
 
 A un livello avanzatissimo e super specializzato, sono in grado di:
 
@@ -533,13 +548,14 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 Esempi di utilizzo
 
 *01 – Scenario di occupazione: Processo di ricerca di un lavoro*
+****************************************************************
 
 Posso creare nuove app o piattaforme per consultare, cercare e filtrare
 portali e offerte di lavoro in base alle esigenze dei richiedenti
 lavoro.
 
-*02 – Scenario di apprendimento: Preparare una breve relazione su un
-argomento specifico*
+*02 – Scenario di apprendimento: Preparare una breve relazione su un argomento specifico*
+*****************************************************************************************
 
 Posso sviluppare una nuova app o piattaforma per sfogliare, cercare e
 filtrare la bibliografia su argomenti accademici da utilizzare in
