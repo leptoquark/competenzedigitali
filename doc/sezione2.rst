@@ -535,3 +535,8 @@ argomento specifico*
 Posso sviluppare una nuova app o piattaforma per sfogliare, cercare e
 filtrare la bibliografia su argomenti accademici da utilizzare in
 classe.
+
+.. [2]
+   Il quadro di riferimento, così come gli esempi, hanno puramente
+   natura descrittiva pertanto non vengono forniti esempi per tutti i
+   livelli di padronanza.
