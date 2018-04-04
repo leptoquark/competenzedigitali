@@ -11,9 +11,9 @@ dimensione 4 (conoscenze, abilità e attitudini).
 
 SOMMARIO DELLE COMPETENZE (SOTTOPAGINE)
 
-===============================================================================
+-------------------------------------------------------------------------------
 Area delle competenze 1: Informazione e alfabetizzazione su informazione e dati
-===============================================================================
+-------------------------------------------------------------------------------
 
 1.1 Navigare, ricercare e filtrare dati, informazioni e contenuti digitali
 ==========================================================================
@@ -489,9 +489,9 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-=======================================================
+-------------------------------------------------------
 Area delle competenze 2: Collaborazione e comunicazione
-=======================================================
+-------------------------------------------------------
 
 2.1 Interagire con gli altri attraverso le tecnologie
 =====================================================
@@ -1479,9 +1479,9 @@ Sono in grado di proporre una nuova procedura alla mia scuola che eviti
 la pubblicazione di contenuti digitali (testi, immagini, video), che
 possono danneggiare la reputazione degli studenti.
 
-========================================================
+--------------------------------------------------------
 Area delle competenze 3: Creazione di contenuti digitali
-========================================================
+--------------------------------------------------------
 
 3.1 Sviluppare contenuti digitali
 =================================
@@ -2051,9 +2051,9 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-==================================
+----------------------------------
 Area delle competenze 4: Sicurezza
-==================================
+----------------------------------
 
 4.1 Proteggere i dispositivi
 ============================
@@ -2744,9 +2744,9 @@ condividerlo sulla piattaforma di apprendimento digitale della mia
 scuola affinché possa essere utilizzato dai miei compagni e dalle loro
 famiglie.
 
-===========================================
+-------------------------------------------
 Area delle competenze 5: Risolvere problemi
-===========================================
+-------------------------------------------
 
 5.1 Risolvere problemi tecnici
 ==============================
