@@ -16,7 +16,6 @@ Area delle competenze 1: Informazione e alfabetizzazione su
 informazione e dati
 
 1.1 Navigare, ricercare e filtrare dati, informazioni e contenuti digitali
-==========================================================================
 
 Articolare i fabbisogni informativi, ricercare i dati, le informazioni e
 i contenuti in ambienti digitali, accedervi e navigare al loro interno.
