@@ -1,3 +1,7 @@
+==================
+Competenze di base
+==================
+
 Informazioni sulla traduzione
 =============================
 
