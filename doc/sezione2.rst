@@ -136,10 +136,12 @@ comprendere in modo facile e concreto i progressi compiuti
 nell’acquisizione della competenza digitale per supportare gli
 stakeholder desiderosi di implementare il quadro di riferimento.
 
+===================================
 Esempio di utilizzo: competenza 1.1
+===================================
 
-1.1 Navigare, ricercare e filtrare dati, informazioni e contenuti
-digitali
+1.1 Navigare, ricercare e filtrare dati, informazioni e contenuti digitali
+==========================================================================
 
 Articolare i fabbisogni informativi, ricercare i dati, le informazioni e
 i contenuti in ambienti digitali, accedervi e navigare al loro interno.
