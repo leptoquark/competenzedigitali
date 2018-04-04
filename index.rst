@@ -1,6 +1,6 @@
 **Competenze Digitali**
 
-Abstrasct
+Abstract
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 DigComp 2.1 è l’evoluzione del quadro di riferimento per le competenze
