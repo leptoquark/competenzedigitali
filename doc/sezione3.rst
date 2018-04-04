@@ -3405,14 +3405,3 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
    l’evoluzione digitale.
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
-
-.. [1]
-   DigComp 2.1 non comprende l’aggiornamento della dimensione 4,
-   preferiamo concentrarci sugli esempi di utilizzo applicati al campo
-   dell’occupazione e dell’apprendimento data la loro rilevanza per le
-   politiche.
-
-.. [2]
-   Il quadro di riferimento, così come gli esempi, hanno puramente
-   natura descrittiva pertanto non vengono forniti esempi per tutti i
-   livelli di padronanza.
