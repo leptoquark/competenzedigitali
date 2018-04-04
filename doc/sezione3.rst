@@ -11,6 +11,7 @@ dimensione 4 (conoscenze, abilità e attitudini).
 
 SOMMARIO DELLE COMPETENZE (SOTTOPAGINE)
 
+
 Area delle competenze 1: Informazione e alfabetizzazione su
 
 informazione e dati
