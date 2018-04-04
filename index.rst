@@ -10,8 +10,8 @@ Introduzione per l'indice
 
    doc/informazioni_sulla_traduzione
    doc/abstract
-   doc/prefazione
    doc/riconoscimenti
+   doc/prefazione
    doc/sezione1
    doc/sezione2
    doc/sezione3
