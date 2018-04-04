@@ -1,4 +1,5 @@
 Sezione 3 - Le competenze
+=========================
 
 Questa sezione illustra ogni competenza di DigComp 2.1 all’interno di
 una tabella con quattro dimensioni: dimensione 1 (area delle
