@@ -148,8 +148,10 @@ i contenuti in ambienti digitali, accedervi e navigare al loro interno.
 Creare e aggiornare strategie di ricerca personali.
 
 Livelli di padronanza
+---------------------
 
 1 - Base
+''''''''
 
 A livello base e con l’aiuto di qualcuno, sono in grado di:
 
@@ -164,8 +166,10 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 -  **identificare semplici** strategie di ricerca personali.
 
 Esempi di utilizzo
+******************
 
 *01 – Scenario di occupazione: Processo di ricerca di un lavoro*
+****************************************************************
 
 Con l’aiuto di un consulente per il lavoro:
 
@@ -178,8 +182,8 @@ smartphone e navigare al loro interno.
 Sono in grado di individuare le parole chiave utili per me da un elenco
 di parole generiche per la ricerca di lavoro in un blog specializzato.
 
-*02 – Scenario di apprendimento: Preparare una breve relazione su un
-argomento specifico*
+*02 – Scenario di apprendimento: Preparare una breve relazione su un argomento specifico*
+*****************************************************************************************
 
 Con l’aiuto di un insegnante:
 
@@ -197,6 +201,7 @@ individuare quelle che potrebbero essere utili per trovare riferimenti
 bibliografici sull’argomento della relazione.
 
 2 - Base
+''''''''
 
 A livello base, in autonomia e con un supporto adeguato, laddove
 necessario,
@@ -214,8 +219,10 @@ sono in grado di:
 -  **identificare semplici** strategie di ricerca personali.
 
 Esempi di utilizzo
+******************
 
 *01 – Scenario di occupazione: Processo di ricerca di un lavoro*
+****************************************************************
 
 Con l’aiuto, se necessario, di un consulente per il lavoro:
 
@@ -228,8 +235,8 @@ smartphone e navigare al loro interno.
 Sono in grado di individuare le parole chiave utili per me da un elenco
 di parole generiche per la ricerca di lavoro in un blog specializzato.
 
-*02 – Scenario di apprendimento: Preparare una breve relazione su un
-argomento specifico*
+*02 – Scenario di apprendimento: Preparare una breve relazione su un argomento specifico*
+*****************************************************************************************
 
 In classe con il mio insegnante che posso consultare ogni volta che ho
 bisogno di:
