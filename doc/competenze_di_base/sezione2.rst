@@ -51,7 +51,7 @@ informazioni nella Tabella 1 sono state rappresentate nell’infografica.
 |                         |                        | problemi diretti                    |                                   |                   |
 +                         +------------------------+-------------------------------------+-----------------------------------+-------------------+
 |                         | 4                      | Compiti e problemi ben definiti e   | Indipendente e in                 | Comprensione      |
-|                         |                        | non sistemaitici                    | base alle mie necessità           |                   |
+|                         |                        | non sistemaitici                    | caso di necessità           |                   |
 +-------------------------+------------------------+-------------------------------------+-----------------------------------+-------------------+
 | Avanzato                | 5                      | Compiti e problemi diversi          | Guida per gli altri               | Applicazione      |
 +                         +------------------------+-------------------------------------+-----------------------------------+-------------------+
@@ -119,11 +119,6 @@ gli esempi per un livello e in quella successiva abbiamo scritto
 l’esempio nel livello successivo, ecc. Ad esempio, le competenze 1.1 e
 1.2 hanno un esempio per il livello 1, la competenza 1.3 per il livello
 2 e la competenza 1.4 per il livello 3, ecc.
-
-La progressione dei livelli di padronanza delle competenze, i risultati
-di apprendimento e le applicazioni pratiche mostrate negli “Esempi di
-utilizzo” sono state rese più comprensibili nella tabella pieghevole a
-pagina 19 (Competenza 1.1) della versione PDF.
 
 Nella versione PDF sono state utilizzate le strisce a fumetti allo scopo
 di mostrare un esempio di utilizzo per uno scenario di occupazione e un
