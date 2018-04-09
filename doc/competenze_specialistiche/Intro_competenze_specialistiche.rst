@@ -1,5 +1,5 @@
 =========================
-COMPETENZE SPECIALISTICHE
+Competenze Specialistiche
 =========================
 
 Le competenze digitali specialistiche riguardano professionisti e futuri professionisti ICT e sono richieste sia nel settore privato che nel settore pubblico.
