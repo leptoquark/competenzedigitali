@@ -1,5 +1,5 @@
 Prefazione
-==========
+----------
 
 La ricerca di JRC sull’apprendimento e le competenze per l’era digitale
 è iniziata nel 2005 con l’obiettivo di sostenere la Commissione Europea
