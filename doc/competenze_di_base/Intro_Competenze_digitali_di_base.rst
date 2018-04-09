@@ -11,3 +11,13 @@ consapevolezza digitale;
 
 realizzare l’inclusione digitale: uguaglianza delle opportunità nell’utilizzo della rete e per lo sviluppo di una
 cultura dell’innovazione e della creatività.
+
+.. toctree::
+   :maxdepth: 2
+
+   prefazione
+   sezione1
+   sezione2
+   sezione3
+   informazioni_sulla_traduzione
+   riconoscimenti
