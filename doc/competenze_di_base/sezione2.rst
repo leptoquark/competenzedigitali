@@ -67,7 +67,9 @@ informazioni nella Tabella 1 sono state rappresentate nell’infografica.
 +-------------------------+------------------------+-------------------------------------+-----------------------------------+-------------------+
 
 
-[INFOGRAFICA]
+.. image:: oceano_digitale.png
+  :scale: 50 %
+  :alt: oceano digitale
 
 La Figura 1 fornisce una spiegazione dettagliata di come le competenze
 vengono presentate nella Sezione 3 di questo rapporto.
