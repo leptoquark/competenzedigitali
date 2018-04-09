@@ -2,14 +2,14 @@
 **Competenze Digitali**
 =======================
 
-Abstract
+Introduzione
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-DigComp 2.1 è l’evoluzione del quadro di riferimento per le competenze
-digitali dei cittadini. Partendo dal modello concettuale di riferimento
-pubblicato con DigComp 2.0, questo documento illustra otto livelli di
-padronanza ed esempi di utilizzo applicati al settore dell’istruzione e
-del lavoro.
+L’Agenzia per l'Italia Digitale promuove la diffusione delle competenze digitali per imprese, cittadini e Pubblica Amministrazione attraverso attività di sviluppo di competenze digitali di base, di e-leadership e specialistiche, con particolare attenzione alle nuove professioni e al mondo delle piccole imprese.
+
+Dal 2017 AgID si occupa inoltre di supportare la definizione delle competenze digitali per le professionalità operanti nel settore ICT e per i soggetti che utilizzano l'ICT all'interno delle attività lavorative (osservatorio delle competenze digitali 2017).
+
+
 
 Sommario
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -17,7 +17,6 @@ Sommario
 .. toctree::
    :maxdepth: 2
    
-   doc/competenze_digitali/Intro_competenze_digitali.rst
    doc/competenze_di_base/Intro_Competenze_digitali_di_base.rst
    doc/competenze_di_base/Intro_Modello_Europeo_DigComp_2_1.rst
    doc/competenze_di_base/prefazione
