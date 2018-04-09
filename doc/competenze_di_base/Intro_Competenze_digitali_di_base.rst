@@ -1,5 +1,6 @@
-COMPETENZE DIGITALI DI BASE
----------------------------
+
+Competenze Digitali di Base
+===========================
 
 Le competenze digitali di base sono le capacità di utilizzare con dimestichezza e 
 spirito critico le tecnologie dell’informazione per il lavoro, il tempo libero e la comunicazione. 
