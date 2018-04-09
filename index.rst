@@ -15,11 +15,15 @@ Sommario
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
+   doc/competenze_digitali/Intro_competenze_digitali.rst
+   doc/competenze_di_base/Intro_Competenze_digitali_di_base.rst
+   doc/competenze_di_base/Intro_Modello_Europeo_DigComp_2_1.rst
    doc/competenze_di_base/prefazione
    doc/competenze_di_base/sezione1
    doc/competenze_di_base/sezione2
    doc/competenze_di_base/sezione3
    doc/competenze_di_base/informazioni_sulla_traduzione
    doc/competenze_di_base/riconoscimenti
+   doc/competenze_specialistiche/Intro_competenze_specialistiche.rst
