@@ -1,5 +1,5 @@
 ==========================
-COMPETENZE DI E-LEADERSHIP
+Competenze di e-Leadership
 ==========================
 
 Le competenze di e-leadership, o e-business, sono le capacità di utilizzare al meglio le tecnologie digitali all’interno di qualsiasi tipo di organizzazione e di introdurre innovazione digitale nello specifico settore di mercato in cui si opera.
