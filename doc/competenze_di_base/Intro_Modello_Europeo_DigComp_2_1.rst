@@ -1,6 +1,5 @@
-===========================
 MODELLO EUROPEO DIGCOMP 2.1
-===========================
+---------------------------
 
 AgID ha focalizzato le proprie attività nella valorizzazione dei modelli europei per la catalogazione delle competenze digitali di base.
 Il 15 febbraio 2018 si è conclusa la consultazione pubblica della prima versione della traduzione ufficiale in lingua italiana del modello
