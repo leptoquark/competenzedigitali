@@ -18,6 +18,7 @@ Sommario
    :maxdepth: 2
    
    doc/competenze_digitali/Intro_competenze_digitali.rst
+   doc/competenze_e-leadership/Intro_competenze_e-leadership.rst
    doc/competenze_di_base/Intro_Competenze_digitali_di_base.rst
    doc/competenze_di_base/Intro_Modello_Europeo_DigComp_2_1.rst
    doc/competenze_di_base/prefazione
