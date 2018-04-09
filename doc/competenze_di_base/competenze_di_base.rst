@@ -321,17 +321,18 @@ stakeholder desiderosi di implementare il quadro di riferimento.
 
 
 Esempio di utilizzo: competenza 1.1
-===================================
+-----------------------------------
 
 1.1 Navigare, ricercare e filtrare dati, informazioni e contenuti digitali
---------------------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 Articolare i fabbisogni informativi, ricercare i dati, le informazioni e
 i contenuti in ambienti digitali, accedervi e navigare al loro interno.
 Creare e aggiornare strategie di ricerca personali.
 
 Livelli di padronanza
----------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 1 - Base
 ''''''''
