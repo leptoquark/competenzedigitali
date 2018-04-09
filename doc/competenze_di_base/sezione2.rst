@@ -50,7 +50,7 @@ informazioni nella Tabella 1 sono state rappresentate nell’infografica.
 |                         |                        | problemi diretti                    |                                   |                   |
 +                         +------------------------+-------------------------------------+-----------------------------------+-------------------+
 |                         | 4                      | Compiti e problemi ben definiti e   | Indipendente e in                 | Comprensione      |
-|                         |                        | non sistemaitici                    | caso di necessità           |                   |
+|                         |                        | non sistemaitici                    | base alle mie necessità           |                   |
 +-------------------------+------------------------+-------------------------------------+-----------------------------------+-------------------+
 | Avanzato                | 5                      | Compiti e problemi diversi          | Guida per gli altri               | Applicazione      |
 +                         +------------------------+-------------------------------------+-----------------------------------+-------------------+
