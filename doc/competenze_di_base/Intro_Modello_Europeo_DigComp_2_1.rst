@@ -1,4 +1,4 @@
-MODELLO EUROPEO DIGCOMP 2.1
+Modello Europeo DigComp 2.1
 ---------------------------
 
 AgID ha focalizzato le proprie attività nella valorizzazione dei modelli europei per la catalogazione delle competenze digitali di base.
