@@ -70,8 +70,6 @@ informazioni nella Tabella 1 sono state rappresentate nell’infografica.
   :scale: 50 %
   :alt: oceano digitale
 
-La Figura 1 fornisce una spiegazione dettagliata di come le competenze
-vengono presentate nella Sezione 3 di questo rapporto.
 
 -  **Le Aree delle competenze** (dimensione 1) e il rispettivo **Titolo
    delle competenze** e il **Descrittore delle competenze** (dimensione
@@ -90,7 +88,6 @@ vengono presentate nella Sezione 3 di questo rapporto.
    corrisponde a un descrittore di competenza, mentre i rispettivi verbi
    di azione e le parole chiave sono riportati in grassetto.
 
-**Figura 1: Spiegazione di come vengono presentate le competenze**
 
 Anche gli **esempi di utilizzo** (dimensione 5 del quadro di
 riferimento) sono stati aggiornati e contestualizzati all’interno degli
@@ -162,7 +159,6 @@ A livello base e con l’aiuto di qualcuno, sono in grado di:
 
 Esempi di utilizzo
 ******************
-
 *01 – Scenario di occupazione: Processo di ricerca di un lavoro*
 ****************************************************************
 
