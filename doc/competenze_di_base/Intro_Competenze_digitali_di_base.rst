@@ -17,8 +17,8 @@ cultura dell’innovazione e della creatività.
 
    Intro_Modello_Europeo_DigComp_2_1
    prefazione
+   informazioni_sulla_traduzione
+   riconoscimenti
    sezione1
    sezione2
    sezione3
-   informazioni_sulla_traduzione
-   riconoscimenti
