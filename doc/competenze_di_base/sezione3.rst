@@ -9,15 +9,6 @@ dimensione 3 (livelli di padronanza) e dimensione 5 (esempi di
 utilizzo). Ribadiamo nuovamente che DigComp 2.1 non comprende la
 dimensione 4 (conoscenze, abilità e attitudini).
 
-:ref:`area_1`
-
-:ref:`area_2`
-
-:ref:`area_3`
-
-:ref:`area_4`
-
-:ref:`area_5`
 
 .. _area_1:
 -------------------------------------------------------------------------------
@@ -3425,3 +3416,13 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
    l’evoluzione digitale.
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
+
+:ref:`area_1`
+
+:ref:`area_2`
+
+:ref:`area_3`
+
+:ref:`area_4`
+
+:ref:`area_5`
