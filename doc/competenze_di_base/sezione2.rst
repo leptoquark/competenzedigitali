@@ -93,7 +93,7 @@ La Figura 1 fornisce una spiegazione dettagliata di come le competenze vengono p
   :scale: 50 %
   :alt: livelli di padronanza
 
-Figura 1: Spiegazione di come vengono presentate le competenze
+**Figura 1:** Spiegazione di come vengono presentate le competenze
 
 Anche gli **esempi di utilizzo** (dimensione 5 del quadro di
 riferimento) sono stati aggiornati e contestualizzati all’interno degli
