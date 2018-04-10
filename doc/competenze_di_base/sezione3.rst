@@ -9,12 +9,13 @@ dimensione 3 (livelli di padronanza) e dimensione 5 (esempi di
 utilizzo). Ribadiamo nuovamente che DigComp 2.1 non comprende la
 dimensione 4 (conoscenze, abilità e attitudini).
 
-.. toctree::
-   :titlesonly:
-   :maxdepht: 2
-   
-   sezione3
+:ref:`area_1`
+:ref:`area_2`
+:ref:`area_3`
+:ref:`area_4`
+:ref:`area_5`
 
+.. _area_1:
 -------------------------------------------------------------------------------
 Area delle competenze 1: Informazione e alfabetizzazione su informazione e dati
 -------------------------------------------------------------------------------
@@ -493,6 +494,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
+.. _area_2:
 -------------------------------------------------------
 Area delle competenze 2: Collaborazione e comunicazione
 -------------------------------------------------------
@@ -1483,6 +1485,7 @@ Sono in grado di proporre una nuova procedura alla mia scuola che eviti
 la pubblicazione di contenuti digitali (testi, immagini, video), che
 possono danneggiare la reputazione degli studenti.
 
+.. _area_3:
 --------------------------------------------------------
 Area delle competenze 3: Creazione di contenuti digitali
 --------------------------------------------------------
@@ -2055,6 +2058,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
+.. _area_4:
 ----------------------------------
 Area delle competenze 4: Sicurezza
 ----------------------------------
@@ -2748,6 +2752,7 @@ condividerlo sulla piattaforma di apprendimento digitale della mia
 scuola affinché possa essere utilizzato dai miei compagni e dalle loro
 famiglie.
 
+.. _area_5:
 -------------------------------------------
 Area delle competenze 5: Risolvere problemi
 -------------------------------------------
