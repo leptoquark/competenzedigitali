@@ -11,6 +11,8 @@ dimensione 4 (conoscenze, abilità e attitudini).
 
 .. toctree::
    :maxdepth: 1
+   
+   sezione3
 
 -------------------------------------------------------------------------------
 Area delle competenze 1: Informazione e alfabetizzazione su informazione e dati
