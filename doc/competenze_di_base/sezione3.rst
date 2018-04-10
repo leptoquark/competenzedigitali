@@ -10,7 +10,7 @@ utilizzo). Ribadiamo nuovamente che DigComp 2.1 non comprende la
 dimensione 4 (conoscenze, abilità e attitudini).
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    
    sezione3
 
