@@ -11,6 +11,7 @@ dimensione 4 (conoscenze, abilità e attitudini).
 
 .. toctree::
    :titlesonly:
+   :maxdepht: 2
    
    sezione3
 
