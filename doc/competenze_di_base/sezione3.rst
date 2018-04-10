@@ -10,9 +10,13 @@ utilizzo). Ribadiamo nuovamente che DigComp 2.1 non comprende la
 dimensione 4 (conoscenze, abilità e attitudini).
 
 :ref:`Area delle competenze 1: Informazione e alfabetizzazione su informazione e dati <area1>`
+
 :ref:`Area delle competenze 2: Collaborazione e comunicazione <area2>`
+
 :ref:`Area delle competenze 3: Creazione di contenuti digitali <area3>`
+
 :ref:`Area delle competenze 4: Sicurezza <area4>`
+
 :ref:`Area delle competenze 5: Risolvere problemi <area5>`
 
 .. _area1:
