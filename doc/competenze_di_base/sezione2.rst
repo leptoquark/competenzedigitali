@@ -70,6 +70,7 @@ informazioni nella Tabella 1 sono state rappresentate nell’infografica.
   :scale: 50 %
   :alt: oceano digitale
 
+La Figura 1 fornisce una spiegazione dettagliata di come le competenze vengono presentate nella Sezione 3 di questo rapporto.
 
 -  **Le Aree delle competenze** (dimensione 1) e il rispettivo **Titolo
    delle competenze** e il **Descrittore delle competenze** (dimensione
