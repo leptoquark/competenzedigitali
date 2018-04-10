@@ -21,6 +21,7 @@ dimensione 4 (conoscenze, abilità e attitudini).
 
 .. _area1:
 
+
 -------------------------------------------------------------------------------
 Area delle competenze 1: Informazione e alfabetizzazione su informazione e dati
 -------------------------------------------------------------------------------
@@ -500,6 +501,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
 .. _area2:
+
 
 -------------------------------------------------------
 Area delle competenze 2: Collaborazione e comunicazione
@@ -1493,6 +1495,7 @@ possono danneggiare la reputazione degli studenti.
 
 .. _area3:
 
+
 --------------------------------------------------------
 Area delle competenze 3: Creazione di contenuti digitali
 --------------------------------------------------------
@@ -2066,6 +2069,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
 .. _area4:
+
 
 ----------------------------------
 Area delle competenze 4: Sicurezza
@@ -2761,6 +2765,7 @@ scuola affinché possa essere utilizzato dai miei compagni e dalle loro
 famiglie.
 
 .. _area5:
+
 
 -------------------------------------------
 Area delle competenze 5: Risolvere problemi
