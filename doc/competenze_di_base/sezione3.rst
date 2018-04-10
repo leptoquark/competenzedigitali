@@ -9,7 +9,11 @@ dimensione 3 (livelli di padronanza) e dimensione 5 (esempi di
 utilizzo). Ribadiamo nuovamente che DigComp 2.1 non comprende la
 dimensione 4 (conoscenze, abilità e attitudini).
 
-:ref:`area 1 <area1>`
+:ref:`Area delle competenze 1: Informazione e alfabetizzazione su informazione e dati <area1>`
+:ref:`Area delle competenze 2: Collaborazione e comunicazione <area2>`
+:ref:`Area delle competenze 3: Creazione di contenuti digitali <area3>`
+:ref:`Area delle competenze 4: Sicurezza <area4>`
+:ref:`Area delle competenze 5: Risolvere problemi <area5>`
 
 .. _area1:
 -------------------------------------------------------------------------------
@@ -490,7 +494,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-.. _area_2:
+.. _area2:
 -------------------------------------------------------
 Area delle competenze 2: Collaborazione e comunicazione
 -------------------------------------------------------
@@ -1481,7 +1485,7 @@ Sono in grado di proporre una nuova procedura alla mia scuola che eviti
 la pubblicazione di contenuti digitali (testi, immagini, video), che
 possono danneggiare la reputazione degli studenti.
 
-.. _area_3:
+.. _area3:
 --------------------------------------------------------
 Area delle competenze 3: Creazione di contenuti digitali
 --------------------------------------------------------
@@ -2054,7 +2058,7 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
 
-.. _area_4:
+.. _area4:
 ----------------------------------
 Area delle competenze 4: Sicurezza
 ----------------------------------
@@ -2748,7 +2752,7 @@ condividerlo sulla piattaforma di apprendimento digitale della mia
 scuola affinché possa essere utilizzato dai miei compagni e dalle loro
 famiglie.
 
-.. _area_5:
+.. _area5:
 -------------------------------------------
 Area delle competenze 5: Risolvere problemi
 -------------------------------------------
