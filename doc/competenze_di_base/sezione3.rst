@@ -9,8 +9,9 @@ dimensione 3 (livelli di padronanza) e dimensione 5 (esempi di
 utilizzo). Ribadiamo nuovamente che DigComp 2.1 non comprende la
 dimensione 4 (conoscenze, abilità e attitudini).
 
+:ref:`area 1 <area1>`
 
-.. _area_1:
+.. _area1:
 -------------------------------------------------------------------------------
 Area delle competenze 1: Informazione e alfabetizzazione su informazione e dati
 -------------------------------------------------------------------------------
@@ -3416,13 +3417,3 @@ A un livello avanzatissimo e super specializzato, sono in grado di:
    l’evoluzione digitale.
 
 -  **proporre nuove** idee e processi nell’ambito specifico.
-
-:ref:`area_1`
-
-:ref:`area_2`
-
-:ref:`area_3`
-
-:ref:`area_4`
-
-:ref:`area_5`
