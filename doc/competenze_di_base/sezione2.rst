@@ -35,8 +35,7 @@ versione del quadro di riferimento è stato aggiunto un nuovo livello
 altamente specializzato che comprende i livelli sette e otto. Le
 informazioni nella Tabella 1 sono state rappresentate nell’infografica.
 
-    **Tabella 1: Principali parole chiave che contraddistinguono i
-    livelli di padronanza**
+**Tabella 1: Principali parole chiave che contraddistinguono i livelli di padronanza**
 
 +-------------------------+------------------------+-------------------------------------+-----------------------------------+-------------------+
 | Livelli in DigComp 1.0  | Livelli in DigComp 2.1 | Complessità dei compiti             | Autonomia                         | Dominio cognitivo |
