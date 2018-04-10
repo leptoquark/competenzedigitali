@@ -6,5 +6,5 @@ Il 15 febbraio 2018 si è conclusa la consultazione pubblica della prima version
 europeo DigComp 2.1. Anche in questo caso, AgID è la prima realtà governativa in Europa a curare direttamente la traduzione ufficiale di
 tale modello.
 
-**SCARICA LA VERSIONE PDF del Modello Europeo DigComp 2.1**
+**Scarica la versione PDF del Modello Europeo DigComp 2.1**
 :download:`pdf <DigComp2-1_ITA.pdf>`
