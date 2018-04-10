@@ -89,6 +89,9 @@ La Figura 1 fornisce una spiegazione dettagliata di come le competenze vengono p
    corrisponde a un descrittore di competenza, mentre i rispettivi verbi
    di azione e le parole chiave sono riportati in grassetto.
 
+.. image:: Livelli-padronanza.jpg
+  :scale: 50 %
+  :alt: livelli di padronanza
 
 Anche gli **esempi di utilizzo** (dimensione 5 del quadro di
 riferimento) sono stati aggiornati e contestualizzati all’interno degli
