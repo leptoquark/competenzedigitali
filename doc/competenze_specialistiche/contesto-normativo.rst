@@ -1,6 +1,5 @@
-===============================================
 Il contesto normativo e il Repertorio Nazionale
-===============================================
+-------------------------------------------------
 
 
 La strategia Europa 2020 pone lo sviluppo di conoscenze, capacità e competenze quale premessa per la crescita economica e dell'occupazione al fine di migliorare l'ingresso e la progressione nel mercato del lavoro, facilitare le transizioni tra le fasi lavorative e di apprendimento, promuovere la mobilità geografica e professionale.
