@@ -39,5 +39,23 @@ La Classificazione ufficiale delle professioni è collegata alla Isco 08 (Intern
 - Dottori di ricerca
 - Aspetti della vita quotidiana
 
+2) Dal **Ministero del Lavoro**, per indicare le attivazioni le trasformazioni e le cessazioni contrattuali all'interno delle comunicazioni obbligatorie.
+
+A seguito del decreto Interministeriale 30 ottobre 2007, Il Ministero del lavoro ha inserito all'interno del tracciato record relativo alle Comunicazioni Obbligatorie la Qualifica Istat, fornendo come indicazione (Comunicazioni Obbligatorie – Modelli e Regole).
+
+Si inserisce la qualifica professionale assegnata al lavoratore all’atto dell’assunzione – trasformazione/cessazione - selezionandola dalla tabella “CP 2011”. In caso di Apprendistato deve essere inserita la qualifica professionale che conseguirà l’apprendista al termine del periodo di formazione. 
+
+3) Dal **MIUR**, per l'indicazione degli sbocchi occupazionali dei corsi di laurea. L'art.3 comma 7 del Decreto Ministeriale 16 marzo 2007 Pubblicato nella Gazzetta Ufficiale del 9 luglio 2007 n. 155 recita:
+*Nel definire gli ordinamenti didattici dei corsi di laurea magistrale, le università specificano gli obiettivi formativi in termini di risultati di apprendimento attesi, con riferimento al sistema di descrittori adottato in sede europea e individuano gli sbocchi professionali anche con riferimento alle attività classificate dall'Istat*.
+
+4) Dall'**INAIL**, all'interno delle denunce di infortunio, per indicare l’unità professionale del lavoratore.
+
+
+5) Da **Unioncamere**, per indicare le previsioni di occupazione.
+
+6) Dall'**INAPP**, nell'indagine campionaria sulle professioni e nella rilevazione sui fabbisogni formativi .
+
+7) Dal **MEF**, all’interno della sperimentazione per la rilevazione delle professioni nella P.A. (Circolare n.19 del 27 aprile 2017).
+
 
 
