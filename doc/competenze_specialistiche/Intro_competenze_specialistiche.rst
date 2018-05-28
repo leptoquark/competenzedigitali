@@ -12,5 +12,5 @@ adottare il modello e-CF come standard di definizione delle competenze digitali 
 .. toctree::
    :maxdepth: 2
    
-   premessa
+   premessa.rst
    
