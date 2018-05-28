@@ -134,5 +134,16 @@ Si inserisce la qualifica professionale assegnata al lavoratore all’atto dell�
 7) Dal **MEF**, all’interno della sperimentazione per la rilevazione delle professioni nella P.A. (Circolare n.19 del 27 aprile 2017).
 
 
+2.2 L'indagine campionaria sulle professioni
+''''''''''''''''''''''''''''''''''''''''''''''''
+
+L’indagine Campionaria sulle professioni è realizzata congiuntamente dall’INAPP e dall’Istat e ha come obiettivo la raccolta di informazioni utili a rappresentare le caratteristiche delle professioni, con particolare riferimento al contenuto del lavoro svolto e al contesto organizzativo in cui si svolge il lavoro. L’indagine descrive tutte le professioni esistenti nel panorama del mercato del lavoro italiano, da quelle operanti nelle imprese private a quelle presenti nell’ambito delle istituzioni e delle strutture pubbliche, fino a quelle operanti in regime di autonomia. Le risposte sono fornite direttamente dai lavoratori che svolgono la professione oggetto di indagine. 
+L’indagine è inserita nel Programma Statistico Nazionale (ISF 00055). Le informazioni prodotte con l’indagine Campionaria sulle professioni contribuiscono ad alimentare il sistema informativo Professioni, un sistema di web linked open data che collega tra loro le istituzioni che forniscono dati sulle professioni.  Il quadro concettuale di riferimento per l’indagine e le tassonomie di variabili utilizzate sono per lo più mutuate dal modello statunitense dell’Occupational Information Network, O*Net (online.onetcenter.org) utilizzato in Italia anche nell’ambito dell’indagine Audit sui fabbisogni professionali (prima e seconda edizione), realizzata da Isfol. Questa indagine analizza mediante un questionario strutturato particolarmente ricco ed articolato le caratteristiche delle Unità Professionali (UP) presenti nell’ambito della Classificazione delle professioni attualmente vigente nel nostro Paese (CP 2011). 
+L’insieme delle descrizioni delle caratteristiche delle UP (relative al lavoro svolto e al contesto di lavoro) forniscono un dettaglio qualitativo esaustivo delle figure che popolano il nostro mercato del lavoro. I lavoratori intervistati nell’ambito dell’indagine Campionaria sulle professioni sono circa 16mila, rappresentativi delle circa 800 UP in cui si articola al massimo livello di dettaglio la Classificazione delle professioni (CP 2011). Nelle sezioni del questionario relative alle conoscenze, agli skills, alle attitudini e alle attività generalizzate (sezioni B, C, D, G), le domande esplorano due dimensioni diverse e complementari: 
+
+
+a) l'importanza dell'aspetto considerato (item) nello svolgimento della professione; 
+
+b) il livello di complessità per il quale lo stesso item è necessario. 
 
 
