@@ -63,3 +63,14 @@ I 24 Settori Economico professionali sono i seguenti:
 
 - Area comune
 
+
+Costituisce il riferimento operativo unitario sia per il riconoscimento delle qualifiche regionali in termini di contenuti professionali presidiati che per i servizi di individuazione, validazione e certificazione delle competenze.
+
+Il QNQR consente di correlare tra loro le qualificazioni regionali, ovvero, rende possibile:
+
+- Verificare e mettere a confronto i contenuti professionali (competenze e profili) descritti nei diversi Repertori regionali;
+- Rendere leggibili e riconoscibili i contenuti professionali sulla base di una comune rappresentazione del lavoro;
+- Disporre di un parametro di prestazione professionale per costruire prove di valutazione congruenti.
+
+In esso sono contenute le qualificazioni e relative competenze di tutti i Repertori regionali che, attraverso un processo di correlazione vagliato e validato dall’apposito Gruppo Tecnico Competenze, sono considerate automaticamente equivalenti.
+
