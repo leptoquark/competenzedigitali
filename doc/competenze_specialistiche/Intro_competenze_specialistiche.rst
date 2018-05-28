@@ -13,5 +13,6 @@ adottare il modello e-CF come standard di definizione delle competenze digitali 
    :maxdepth: 2
    
    doc/competenze_specialistiche/premessa.rst
+   dc/competenze_specialistiche/contesto-normativo.rst
    
    
