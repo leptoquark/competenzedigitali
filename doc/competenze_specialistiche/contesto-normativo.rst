@@ -1,5 +1,5 @@
 2. Il contesto normativo e il Repertorio Nazionale
-''''''''''''''''''''''''''''''''''''''''''''''''''''
+***************************************************
 
 
 La strategia Europa 2020 pone lo sviluppo di conoscenze, capacità e competenze quale premessa per la crescita economica e dell'occupazione al fine di migliorare l'ingresso e la progressione nel mercato del lavoro, facilitare le transizioni tra le fasi lavorative e di apprendimento, promuovere la mobilità geografica e professionale.
@@ -76,7 +76,7 @@ In esso sono contenute le qualificazioni e relative competenze di tutti i Repert
 
 
 2.1 Istituzione del quadro nazionale qualificazioni
-****************************************************
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Con il Decreto dell’8 gennaio 2018 (GU n. 20 del 25 gennaio 2018) il Ministero del Lavoro e delle Politiche Sociali apre all’inquadramento delle qualificazioni internazionali ossia delle qualificazioni rilasciate da un organismo internazionale legalmente costituito o da un organismo nazionale che agisce a nome di un organismo internazionale a condizione che tali qualificazioni siano utilizzate in più di un Paese e includano risultati di apprendimento valutati facendo riferimento alle norme stabilite da un organismo internazionale (arti. 2, c. 1) nell’European Qualification Framework – EQF. Tale sistema di classificazione intende facilitare il mutuo riconoscimento, delle qualificazioni a livello europeo per il loro contenuto di conoscenze e abilità, favorendo una reale libera circolazione dei professionisti nell’Unione, assegnando a ciascuna certificazione un livello EQF nella scala da 1 a 8.
 
