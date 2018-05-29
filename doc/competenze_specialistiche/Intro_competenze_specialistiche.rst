@@ -14,9 +14,5 @@ adottare il modello e-CF come standard di definizione delle competenze digitali 
 .. toctree::
    :maxdepth: 2
    
-   premessa
    contesto-normativo
-   quadro-nazionale-qualificazioni
-   indagine-campionaria
-   correlazioni-classificazioni
    
