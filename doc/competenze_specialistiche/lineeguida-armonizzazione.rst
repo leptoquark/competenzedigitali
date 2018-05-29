@@ -388,5 +388,10 @@ Rappresentano combinazioni di competenze che fanno riferimento a specifici proce
 •	le risorse che le persone devono mobilitare per poter presidiare efficacemente le attività lavorative.
 La figura professionale rappresenta la specifica combinazione di competenze che gli attori istituzionali riconoscono valida per agire all’interno di determinate posizioni Lavorative.
 
+La figura professionale rappresenta la specifica combinazione di competenze che gli attori istituzionali riconoscono valida per agire all’interno di determinate posizioni Lavorative.
 
+.. image:: processi-di-lavoro.jpg
+  :scale: 50 %
+  :alt: Schema processi di lavoro-Competenze-Figura professionale
 
+**Figura 1. Schema processi di lavoro-Competenze-Figura professionale**
