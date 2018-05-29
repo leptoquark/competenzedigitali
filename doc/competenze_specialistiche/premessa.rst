@@ -5,7 +5,7 @@ Linee guida per l'armonizzazione delle qualificazioni professionali, delle profe
  *Come riconoscere e valorizzare le competenze in ambito ICT.*
   
 1. Premessa
---------------------------
+'''''''''''''
 Le linee guida presenti all’interno del documento hanno lo scopo di fornire indicazioni operative ed organizzative ai soggetti che interagiscono con il Repertorio Nazionale relativamente a professionalità operanti nel settore ICT. Con tale documento si desidera garantire che i diversi soggetti coinvolti possano referenziare agevolmente i profili definiti da norme tecniche UNI in ambito ICT (e recepiti da linee guida AgID) supportando un’armonizzazione nazionale sia nell’ambito delle definizioni che nell’ambito della metodologia di definizione dei progetti formativi e di certificazione delle competenze.
 Questo documento è un ulteriore guida all’uso delle nomenclature utilizzate nel mercato, in particolare dalla PA per l’acquisizione o alla richiesta a propri fornitori di risorse specializzate nel settore ICT. 
 
