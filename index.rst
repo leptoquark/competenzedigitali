@@ -15,7 +15,7 @@ Sommario
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    
    doc/competenze_di_base/Intro_Competenze_digitali_di_base.rst
    doc/competenze_e-leadership/Intro_competenze_e-leadership.rst
