@@ -361,3 +361,32 @@ Rispetto a questa ripartizione, esistono tempistiche di aggiornamento ed evoluzi
 •	Le regioni definiscono le qualificazioni dei Repertori Regionali, che, ai fini della validità di una certificazione su tutto il territorio nazionale, devono essere ricondotte ad una o più aree di attività previste dall’Atlante del Lavoro e delle Qualificazioni. Il processo di aggiornamento delle qualificazioni non deve rispettare tempistiche definite. Lo stesso discorso vale per le Aree Di Attività (ADA) contenute nell’Atlante del Lavoro e delle Qualificazioni, che, per definizione, essendo legate ai processi previsti all’interno di una certa qualificazione, devono seguire le variazioni dei repertori regionali. I repertori regionali e le ADA sono strutture flessibili che seguono una logica diversa da quella classificatoria e vengono adeguate alle esigenze del mercato lavoro locale. Tuttavia, le Aree di Attività dell’Atlante del Lavoro e delle Qualificazioni sono ricondotte alle Unità Professionali della Classificazione ufficiale delle Professioni. In questo modo, è possibile avere un collegamento diretto tra i repertori regionali e la Classificazione ufficiale delle Professioni.
 
 •	I profili referenziati da AgID, basandosi su norme tecniche (nazionali e internazionali), possono subire aggiornamenti periodici. Tali aggiornamenti dipendono pertanto dalle attività delle specifiche commissioni dell’ente di normazione (per l’Italia UNINFO), che possono portare alla revisione di profili (modifica profili attuali e/o integrazione di ulteriori profili) in periodi comunque non inferiori all’anno solare. AgID prevede di aggiornare comunque le linee guida su base annuale, integrando le linee guida dell’anno precedente con eventuali novità normative.
+
+
+4. Modello di riferimento per la catalogazione
+---------------------------------------------------
+
+La coesistenza di diverse classificazioni rende complesso il procedimento di “unificazione”, ma al tempo stesso offre una ricchezza di prospettive che possono trovare in questa proposta una sintesi che coniughi esigenze diverse e individui un linguaggio comune.
+Partendo dall’obiettivo di aggiornare il Repertorio Ligure si propone un processo sperimentale al fine di definire un “metodo” che consenta di rendere fruibili in modo omogeneo le diverse classificazioni.
+
+L’obiettivo delle presenti linee guida è quello di supportare l’identificazione di un linguaggio che renda fruibili le classificazioni Istat e Atlante del Lavoro e delle Qualificazioni (Nazionale e repertori regionali), a partire dai profili UNI referenziati dalle linee guida AgID. In buona sostanza la proposta è quella di applicare un processo di “operativizzazione”, per passare dal concetto astratto di Figura professionale a quello concreto di attività (Area di attività dell’Atlante e Unità di competenza del repertorio) per poter descrivere con un linguaggio condiviso quali comportamenti (attività) vanno associati alla figura.
+
+Attraverso la disarticolazione è possibile giungere ad una sintesi, di cui il prospetto allegato è un esempio. Il processo di operativizzazione:
+
+
+
+Di seguito si riporta, a titolo esemplificativo, la descrizione del modello del Repertorio Ligure: dalla figura professionale si evidenzia come la centro sia il concetto di competenza, a sua volta articolata in conoscenze e abilità (che in prospettiva sono le variabili utilizzate per risalire alla competenza). Come noto, le figure professionali in generale, quelle dell’ICT in particolare, sono caratterizzate da una rapida evoluzione e modificazioni. Partire dai singoli “standard minimi di competenza” (le conoscenze e abilità) che compongono le competenze e quindi le qualificazioni consente di mantenere aggiornati in modo flessibile e mobile i descrittori delle figure professionali e soprattutto consente di collegare tra loro le diverse classificazioni.
+
+4.1. Definizione di figura professionale
+'''''''''''''''''''''''''''''''''''''''''''''
+Le figure professionali descritte nel repertorio mirano a supportare le attività delle politiche di orientamento, formazione e lavoro e ad agevolare nella scelta dei percorsi formativi. È possibile consultare le schede, anche in formato PDF, delle diverse figure, in cui sono descritte le "situazioni tipo" di lavoro, le competenze, le conoscenze e le abilità connesse alle diverse professioni. È attivo anche il collegamento al Sistema Informativo Nazionale delle Professioni.
+
+Rappresentano combinazioni di competenze che fanno riferimento a specifici processi produttivi, cioè a componenti relativamente stabili dell’organizzazione del lavoro. La figura professionale descrive nello stesso tempo:
+
+•	i processi lavorativi e le attività che tipicamente sono svolte nei contesti di lavoro, al fine di raggiungere risultati economicamente rilevanti;
+
+•	le risorse che le persone devono mobilitare per poter presidiare efficacemente le attività lavorative.
+La figura professionale rappresenta la specifica combinazione di competenze che gli attori istituzionali riconoscono valida per agire all’interno di determinate posizioni Lavorative.
+
+
+
